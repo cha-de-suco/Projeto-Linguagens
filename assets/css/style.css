@@ -1,0 +1,40 @@
+body {
+    background-color: #0d1117;
+    box-sizing: border-box;
+    color: aliceblue;
+    font-family: "Miltonian Tattoo", serif;
+    list-style: none;
+
+}
+
+.verde {
+    color: springgreen;
+}
+
+.azul {
+    color: #61dafb;
+  }
+
+.laranja {
+    color: coral;
+  }
+
+.vermelho {
+    color: lightcoral;
+  }
+
+.cinza {
+    color: gray;
+  }
+
+.amarelo {
+    color: yellow;
+  }
+
+.roxo {
+    color: violet;
+  }
+
+.rosa {
+    color: orchid;
+}

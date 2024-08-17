@@ -1,0 +1,123 @@
+#javaScript {
+    background: url("../../img/javascript.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    list-style: none;
+    width: 150px;
+    height: 150px;
+    
+}
+
+#mysql {
+    background: url("../../img/mysql.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    list-style: none;
+    width: 150px;
+    height: 150px;
+}
+
+#c-sharp {
+    background: url("../../img/c-sharp.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    list-style: none;
+    width: 150px;
+    height: 150px;
+}
+
+#c-mais {
+    background: url("../../img/c++.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    list-style: none;
+    width: 150px;
+    height: 150px;
+}
+
+#java {
+    background: url("../../img/java.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    list-style: none;
+    width: 150px;
+    height: 150px;
+}
+
+#pascal {
+    background: url("../../img/pascal.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    list-style: none;
+    width: 150px;
+    height: 150px;
+}
+
+#python {
+    background: url("../../img/python.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    list-style: none;
+    width: 150px;
+    height: 150px;
+}
+
+#php {
+    background: url("../../img/php.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    list-style: none;
+    width: 150px;
+    height: 150px;
+}
+
+.bordaAzul {
+    border: 2px  solid  #61dafb;
+    box-sizing: border-box;
+}
+
+.bordaLaranja {
+    border: 2px  solid  chocolate;
+    box-sizing: border-box;
+}
+    
+.bordaRoxa {
+    border: 2px  solid violet ;
+    box-sizing: border-box;
+}
+.bordaRosa {
+    border: 2px  solid  orchid;
+    box-sizing: border-box;
+}
+
+.bordaAmarela {
+    border: 2px  solid  yellow;
+    box-sizing: border-box;
+}
+
+.bordaVerde {
+    border: 2px  solid  springgreen;
+    box-sizing: border-box;
+}
+
+.bordaCinza {
+    border: 2px  solid  gray;
+    box-sizing: border-box;
+}
+.bordaVermelha {
+    border: 2px  solid  lightcoral;
+    box-sizing: border-box;
+}
+
+.bordaBranca {
+    border: 2px  solid  white;
+    box-sizing: border-box;
+}
